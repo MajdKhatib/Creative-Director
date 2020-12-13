@@ -1,0 +1,112 @@
+.profile-skilles {
+  padding: 50px 0;
+  overflow: hidden;
+  text-align: left;
+}
+
+.profile-skilles .profile {
+  width: 50%;
+  float: left;
+}
+
+.profile-skilles .profile h2 {
+  font-size: 40px;
+  margin-bottom: 25px;
+}
+
+.profile-skilles .profile h2 span {
+  font-weight: normal;
+}
+
+.profile-item {
+  margin-bottom: 8px;
+  color: #888;
+}
+
+.profile-item span {
+  display: inline-block;
+  width: 100px;
+  font-weight: bold;
+  color: #666;
+}
+
+.profile-item a {
+  color: #e52;
+}
+
+.profile-skilles .skilles {
+  width: 50%;
+  overflow: hidden;
+}
+.profile-skilles .skilles h2 {
+  font-size: 40px;
+  margin-bottom: 25px;
+}
+
+.profile-skilles .skilles h2 span {
+  font-weight: normal;
+}
+
+.skilles-desc {
+  font-size: 15px;
+  color: #888;
+  margin-bottom: 20px;
+}
+
+.skilles .bar {
+  /* background: #f8f8f8; */
+  margin-bottom: 10px;
+  overflow: hidden;
+  /* padding: 10px; */
+}
+
+.skilles .bar .title {
+  float: left;
+  font-size: 15px;
+  color: #666;
+}
+
+.skilles .bar .perc {
+  float: right;
+  margin-right: 50px;
+  font-size: 10px;
+  color: #888;
+  line-height: 17px;
+}
+
+.skilles .bar .percent {
+  height: 3px;
+  /* width: 100%; */
+  clear: both;
+  background: #f8f8f8;
+  position: relative;
+  /* top: 5px; */
+}
+
+.skilles .bar1 .percent span {
+  display: block;
+  background: #e52;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.skilles .bar2 .percent span {
+  display: block;
+  background: #e52;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+  width: 90%;
+}
+.skilles .bar3 .percent span {
+  display: block;
+  background: #e52;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+  width: 80%;
+}
