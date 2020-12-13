@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MajdKhatib/Creative-Director/static/css/main.f6cbbc96.chunk.css",
+    "main.js": "/MajdKhatib/Creative-Director/static/js/main.5e9a8ff5.chunk.js",
+    "main.js.map": "/MajdKhatib/Creative-Director/static/js/main.5e9a8ff5.chunk.js.map",
+    "runtime-main.js": "/MajdKhatib/Creative-Director/static/js/runtime-main.3ac6ddd4.js",
+    "runtime-main.js.map": "/MajdKhatib/Creative-Director/static/js/runtime-main.3ac6ddd4.js.map",
+    "static/js/2.dfd791ac.chunk.js": "/MajdKhatib/Creative-Director/static/js/2.dfd791ac.chunk.js",
+    "static/js/2.dfd791ac.chunk.js.map": "/MajdKhatib/Creative-Director/static/js/2.dfd791ac.chunk.js.map",
+    "static/js/3.6711fd8c.chunk.js": "/MajdKhatib/Creative-Director/static/js/3.6711fd8c.chunk.js",
+    "static/js/3.6711fd8c.chunk.js.map": "/MajdKhatib/Creative-Director/static/js/3.6711fd8c.chunk.js.map",
+    "index.html": "/MajdKhatib/Creative-Director/index.html",
+    "static/css/main.f6cbbc96.chunk.css.map": "/MajdKhatib/Creative-Director/static/css/main.f6cbbc96.chunk.css.map",
+    "static/js/2.dfd791ac.chunk.js.LICENSE.txt": "/MajdKhatib/Creative-Director/static/js/2.dfd791ac.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/MajdKhatib/Creative-Director/static/media/about-bg.973f2515.jpg",
+    "static/media/logo.6ce24c58.svg": "/MajdKhatib/Creative-Director/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ac6ddd4.js",
+    "static/js/2.dfd791ac.chunk.js",
+    "static/css/main.f6cbbc96.chunk.css",
+    "static/js/main.5e9a8ff5.chunk.js"
+  ]
+}
